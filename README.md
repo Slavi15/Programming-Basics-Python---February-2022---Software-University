@@ -1,1 +1,1 @@
-<h1 align="center">Programming Basics JS - April 2021 - SoftUni</h1>
+<h1 align="center">Programming Basics Python - February 2022 - SoftUni</h1>
